@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Joel Hochman",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Joel Hochman is an innovator based in New Orleans. He is always looking for projects to take to the next level.",
+    "siteUrl": "https://joelhochman.com",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@HochmanJoel"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
